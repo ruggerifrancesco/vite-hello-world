@@ -6,7 +6,7 @@ import AppTitle from './components/AppTitle.vue'
   <AppTitle />
 </template>
 
-<style scoped>
+<style>
 body {
   height: 100vh;
   display: flex;
