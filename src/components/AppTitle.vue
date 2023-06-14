@@ -1,11 +1,21 @@
 <script>
-
+export default {
+  data() {
+    return {
+        appTitle: 'La mia prima app con Vite!',
+    }
+  },
+}
 </script>
 
 <template>
-
+    <h1 class="app-title">Ciao</h1>
 </template>
 
 <style>
-
+    @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+    .app-title {
+        font-family: 'Tilt Prism', cursive;
+        font-size: 10rem;
+    }
 </style>
