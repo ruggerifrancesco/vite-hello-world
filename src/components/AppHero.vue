@@ -1,5 +1,10 @@
 <script>
+import AppTitle from './AppTitle';
+
     export default {
+      components: {
+        AppTitle
+      },
       data() {
         return {
             imgHeader: {
