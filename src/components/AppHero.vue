@@ -1,5 +1,5 @@
 <script>
-import AppTitle from './AppTitle';
+import AppTitle from './AppTitle.vue';
 
     export default {
       components: {
@@ -29,6 +29,7 @@ import AppTitle from './AppTitle';
     height: 550px;
     border-radius: 1rem;
     overflow: hidden;
+    position: relative;
   }
   img {
     width: 100%;

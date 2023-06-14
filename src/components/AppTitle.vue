@@ -18,8 +18,13 @@
     @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
     .app-title {
         font-family: 'Tilt Prism', cursive;
-        font-size: 5rem;
+        font-size: 3rem;
         text-align: center;
         text-decoration: underline;
+        position: absolute;
+        bottom: 1.5rem;
+        left: 50%;
+        transform: translateX(-50%);
+        color: lightgrey;
     }
 </style>
