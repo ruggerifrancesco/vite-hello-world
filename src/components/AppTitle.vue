@@ -14,7 +14,7 @@
     </h1>
 </template>
 
-<style>
+<style scoped>
     @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
     .app-title {
         font-family: 'Tilt Prism', cursive;
