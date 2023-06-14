@@ -19,6 +19,7 @@ import AppTitle from './AppTitle';
 <template>
     <header class="jumbotron">
         <img :src="imgHeader.imgSrc" :alt="imgHeader.imgAlt">
+        <AppTitle />
     </header>
 </template>
 
