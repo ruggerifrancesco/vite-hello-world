@@ -8,7 +8,7 @@ import AppTitle from './AppTitle.vue';
       data() {
         return {
             imgHeader: {
-              imgSrc: "https://img.freepik.com/premium-photo/painting-mountain-landscape-with-river-foreground-mountain-background_864560-11.jpg",
+              imgSrc: "https://tophinhanhdep.com/wp-content/uploads/2021/10/Neon-City-Wallpapers.jpg",
               imgAlt: "scenery",
             },
         }
