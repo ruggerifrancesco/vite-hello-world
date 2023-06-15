@@ -22,9 +22,9 @@
         text-align: center;
         text-decoration: underline;
         position: absolute;
-        bottom: 1.5rem;
+        top: 1.5rem;
         left: 50%;
         transform: translateX(-50%);
-        color: lightgrey;
+        color: white;
     }
 </style>
